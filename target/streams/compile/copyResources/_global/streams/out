@@ -1,0 +1,5 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\TUF-GAMING\IdeaProjects\SDA2024_MEJRI_Salam_BENAMOR_Nesrine\src\main\resources\Configuration\reader_csv.json,C:\Users\TUF-GAMING\IdeaProjects\SDA2024_MEJRI_Salam_BENAMOR_Nesrine\target\scala-2.12\classes\Configuration\reader_csv.json)
+[debug] 	(C:\Users\TUF-GAMING\IdeaProjects\SDA2024_MEJRI_Salam_BENAMOR_Nesrine\src\main\resources\Configuration\reader_json.json,C:\Users\TUF-GAMING\IdeaProjects\SDA2024_MEJRI_Salam_BENAMOR_Nesrine\target\scala-2.12\classes\Configuration\reader_json.json)
+[debug] 	(C:\Users\TUF-GAMING\IdeaProjects\SDA2024_MEJRI_Salam_BENAMOR_Nesrine\src\main\resources\DataForTest\data.csv,C:\Users\TUF-GAMING\IdeaProjects\SDA2024_MEJRI_Salam_BENAMOR_Nesrine\target\scala-2.12\classes\DataForTest\data.csv)
+[debug] 	(C:\Users\TUF-GAMING\IdeaProjects\SDA2024_MEJRI_Salam_BENAMOR_Nesrine\src\main\resources\DataForTest\data.json,C:\Users\TUF-GAMING\IdeaProjects\SDA2024_MEJRI_Salam_BENAMOR_Nesrine\target\scala-2.12\classes\DataForTest\data.json)
